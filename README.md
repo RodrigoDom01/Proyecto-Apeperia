@@ -32,6 +32,11 @@ Archivos iniciales del proyecto para Apeperia del curso "Layouts Responsivos: Tr
 
 `<link>` : <https://rodrigodom01.github.io/practicacss/>
 
+`<link>` : <https://www.aluracursos.com/blog/sitio-web-unico-y-responsivo-o-sitios-dedicados>
+
+`<link>` : <https://www.aluracursos.com/blog/puntos-de-ruptura-en-el-diseno-responsivo>
+
+
 
 
 
